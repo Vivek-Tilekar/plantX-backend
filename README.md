@@ -49,7 +49,7 @@ plantx-backend/
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/your-username/plantx-backend.git
+git clone [https://github.com/Vivek-Tilekar/plantx-backend.git](https://github.com/Vivek-Tilekar/plantX-backend.git)
 cd plantx-backend
 ```
 
@@ -197,7 +197,7 @@ You can test API using:
 
 **Vivek Tilekar**
 
-* GitHub: [https://github.com/your-username](https://github.com/Vivek-Tilekar/)
-* LinkedIn: [https://linkedin.com/in/your-profile](https://www.linkedin.com/in/vivek-tilekar-596865225/)
+* GitHub: [https://github.com/Vivek-Tilekar](https://github.com/Vivek-Tilekar/)
+* LinkedIn: [https://linkedin.com/in/vivek-tilekar-596865225/](https://www.linkedin.com/in/vivek-tilekar-596865225/)
 
 ---
